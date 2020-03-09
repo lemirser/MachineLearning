@@ -10,7 +10,7 @@ pip freeze > requirements.txt
 Upload to Git
 
 ```
-git add -a .
+git add -A .
 git commit -m "message"
 git push
 ```
