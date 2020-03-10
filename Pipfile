@@ -39,6 +39,7 @@ matplotlib = "*"
 scikit-learn = "*"
 jupyter = "*"
 jupyterlab = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.7"
