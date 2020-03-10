@@ -27,9 +27,15 @@ pipenv shell
 
 Activate your venv, then run the commands below on your command line.
 ```
+# For MiniConda3
+conda env export > environment.yml
+
+# For pipenv
 pipenv shell
 pip freeze > requirements.txt
 ```
+
+
 
 
 ## Clone Github repository to your local path
@@ -56,4 +62,7 @@ pip install -r requirements.txt
 
 # If you are using pipenv
 pipenv install -r requirements.txt
+
+# If you are using MiniConda3
+conda env create -f environment.yml
 ```
