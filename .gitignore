@@ -7,9 +7,12 @@
 # website: http://jupyter.org/
 
 .ipynb_checkpoints
+.ipynb_checkpoints/
+.ipynb_checkpoints\
+*\.ipynb_checkpoints\*
 */.ipynb_checkpoints/*
 *.ipynb_checkpoints
-
+*checkpoint.ipynb
 # Model files
 *.pkl
 *.joblib
