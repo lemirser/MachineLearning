@@ -158,4 +158,18 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+
 # End of https://www.gitignore.io/api/python,windows,jupyternotebooks
+
+# Data set for Bluebook for Bulldozers
+*ValidSolution.csv
+*Valid.zip
+*Valid.csv
+*Valid.7z
+*Train.zip
+*Train.7z
+*Data Dictionary.xlsx
+*Machine_Appendix.csv
+*median_benchmark.csv
+*random_forest_benchmark_test.csv
+*Test.csv
