@@ -158,9 +158,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-
-# End of https://www.gitignore.io/api/python,windows,jupyternotebooks
-
 # Data set for Bluebook for Bulldozers
 *ValidSolution.csv
 *Valid.zip
@@ -173,3 +170,6 @@ $RECYCLE.BIN/
 *median_benchmark.csv
 *random_forest_benchmark_test.csv
 *Test.csv
+*Train.csv
+
+# End of https://www.gitignore.io/api/python,windows,jupyternotebooks
