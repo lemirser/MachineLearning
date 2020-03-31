@@ -38,8 +38,11 @@ $ pipenv shell
 $ pipenv lock
 
 # For pipenv (requirements.txt)
-$ pipenv lock -r ## This will include all hashes
-$ pipenv run pip freeze ## To not include the hashes
+## This will generate a Pipfile.lock
+$ pipenv lock -r
+
+## This will generate a requirements.txt
+$ pipenv run pip freeze > requirements.txt
 ```
 
 ## Install dependencies
