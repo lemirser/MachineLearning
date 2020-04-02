@@ -1,4 +1,5 @@
 # Machine Learning Model Evaluation
+ ***Source: [Daniel Bourke](https://github.com/mrdbourke/zero-to-mastery-ml)***
 Evaluating the results of a machine learning model is as important as building one.
 
 But just like how different problems have different machine learning models, different machine learning models have different evaluation metrics.
@@ -63,5 +64,3 @@ For more resources on evaluating a machine learning model, be sure to check out 
 * [Beyond Accuracy: Precision and Recall by Will Koehrsen](https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c)
 
 * [Stack Overflow answer describing MSE (mean squared error) and RSME (root mean squared error)](https://stackoverflow.com/a/37861832)
-
- ***Source: [Daniel Bourke](https://github.com/mrdbourke/zero-to-mastery-ml)***
